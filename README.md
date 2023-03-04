@@ -8,5 +8,5 @@ my qtile dot files
 cd Qtile-dots && cp -r qtile ~/.config`
 
 ### screenshot
-[!](https://github.com/behdanisohrab/Qtile-dots/blob/main/screenshot.png)
+![screenshot](https://github.com/behdanisohrab/Qtile-dots/blob/main/screenshot.png)
 
